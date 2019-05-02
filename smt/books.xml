@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+
+
+
+
+<book>
+<BookTitle>Semantic Web Technology</BookTitle>
+<Authors>Kesavan</Authors>
+<ISBN>1234</ISBN>
+<Qty>2</Qty>
+<Price>100.20</Price>
+</book>
+
+
+<book>
+<BookTitle>Artificial Intelligence</BookTitle>
+<Authors>Bavitaran</Authors>
+<ISBN>012</ISBN>
+<Qty>25</Qty>
+<Price>75.95</Price>
+</book>
+
+<book>
+<BookTitle>Natural Language Processing</BookTitle>
+<Authors>Lee Chin Po</Authors>
+<ISBN>789</ISBN>
+<Qty>15</Qty>
+<Price>30.60</Price>
+</book>
+
+<book>
+<BookTitle>Real Time System</BookTitle>
+<Authors>Siti Zainab</Authors>
+<ISBN>456</ISBN>
+<Qty>75</Qty>
+<Price>12.60</Price>
+</book>
+
+<book><BookTitle>Algorithm Analysis</BookTitle><Authors>Dr. Cheah</Authors><ISBN>963</ISBN><Qty>50</Qty><Price>60.00</Price></book><book><BookTitle>Computer Architechture</BookTitle><Authors>Lilian Wong</Authors><ISBN>1478963</ISBN><Qty>85</Qty><Price>90.00</Price></book></books>
